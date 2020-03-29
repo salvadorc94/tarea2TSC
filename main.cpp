@@ -29,7 +29,7 @@ int main() {
     file >> k >> Q;
     file >> nnodes >> neltos >> ndirich >> nneu;
     
-    file >> line;
+    //file >> line;
     file >> line;
 
     m.setParameters(k, Q);
